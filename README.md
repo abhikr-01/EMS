@@ -1,3 +1,8 @@
+<img width="1327" height="571" alt="empDashboard" src="https://github.com/user-attachments/assets/3bcc13ce-24cb-49e4-9244-0b4a18c1176f" />
+<img width="1365" height="594" alt="employeeLogin" src="https://github.com/user-attachments/assets/b267a489-f514-4f92-a3c4-86ad922a955a" />
+<img width="1361" height="600" alt="AdminDashboard" src="https://github.com/user-attachments/assets/4a1239ac-058b-423c-86db-fbe9e065d9ce" />
+<img width="1362" height="591" alt="LoginPage" src="https://github.com/user-attachments/assets/1a03616b-3b2c-4bf0-9d15-2c2df4cbe736" />
+<img width="1365" height="602" alt="AdminLogin" src="https://github.com/user-attachments/assets/56fb1668-bd83-4b9f-80b2-41bad9312aaa" />
 # Employee Management System (EMS)
 
 A real-time, responsive **Employee Management System** built with **React** and **Tailwind CSS**. This application features a dual-dashboard architecture that allows Administrators to assign tasks and monitor progress globally, while enabling Employees to view, manage, and update their personal task statuses instantly.
